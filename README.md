@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **HTML,CSS,React**
 
-- 📫 How to reach me **inesmrad20@gmail.com**
+- 📫 How to reach me **yasminefilaliyou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
